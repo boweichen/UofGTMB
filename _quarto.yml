@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MGT5494 Text Mining for Business"
+  page-footer: "© 2025 Bowei Chen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+  sidebar:
+    style: docked
+    contents:
+      - href: index.qmd
+        text: About
+
+author: "Bowei Chen"
+date: today
+
+bibliography: bibliography.bib
+
+format:
+
+  html:
+    toc: true
+    number-sections: true
+    highlight-style: github
+    cite-method: citeproc
+    theme: cosmo
+
+editor: visual
+
+

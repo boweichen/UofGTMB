@@ -1,0 +1,3 @@
+# About {.unnumbered}
+
+The [MGT5494 Text Mining for Business]() is an elective course offered in the [MSc in Business Analytics](https://www.gla.ac.uk/postgraduate/taught/business-analytics). The course offers students a comprehensive insight into text mining, a popular subfield of data analytics that focuses on extracting meaningful information from text-based sources. Using the R programming language, the syllabus covers text processing techniques, sentiment analysis, and topic modelling, equipping students with the ability to extract insights from unstructured text data. Through a combination of lectures and hands-on laboratory sessions, students will learn to analyse and interpret large volumes of text, converting it into actionable business intelligence. 
